@@ -1,0 +1,19 @@
+{
+    "name": "wemersonjanuario/wkhtmltopdf-windows",
+    "description": "Convert html to pdf using webkit (qtwebkit). Static linked windows binary for 32 bit and 64 bit systems.",
+    "keywords": ["pdf", "thumbnail", "snapshot", "wkhtmltopdf", "convert", "binary", "windowspdf"],
+    "license": "LGPL Version 3",
+    "homepage": "http://wkhtmltopdf.org/",
+    "authors": [
+        {
+            "name": "Wemerson Januario",
+            "email": "wemerson.januario@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",   
+	"bin": [
+        "bin/wkhtmltopdf-windows"
+    ],
+    "require": {
+    }
+}
