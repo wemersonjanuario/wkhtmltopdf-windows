@@ -12,7 +12,7 @@
     ],
     "minimum-stability": "stable",   
 	"bin": [
-        "bin/wkhtmltopdf-windows"
+        "bin"
     ],
     "require": {
     }
