@@ -28,4 +28,4 @@ The binaries will then be located at:
 
 Also a symlink will be created in your configured bin/ folder, for example:
 
-    vendor/bin/wkhtmltopdf-windows
+    vendor/bin/wkhtmltopdf-32bit.exe.bat and vendor/bin/wkhtmltopdf-64bit.exe.bat
