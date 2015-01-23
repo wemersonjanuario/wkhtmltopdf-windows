@@ -12,7 +12,8 @@
     ],
     "minimum-stability": "stable",   
 	"bin": [
-        "bin/32-bit/wkhtmltopdf"
+        "bin/wkhtmltopdf-32bit.exe",
+        "bin/wkhtmltopdf-64bit.exe"
     ],
     "require": {
     }
