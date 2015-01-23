@@ -12,7 +12,7 @@
     ],
     "minimum-stability": "stable",   
 	"bin": [
-        "bin"
+        "bin/32-bit/wkhtmltopdf"
     ],
     "require": {
     }
