@@ -25,10 +25,8 @@
   },
   "minimum-stability": "stable",
   "bin": [
-    "bin/32bit/wkhtmltopdf.exe",
-    "bin/32bit/wkhtmltoimage.exe",
-    "bin/64bit/wkhtmltopdf.exe",
-    "bin/64bit/wkhtmltoimage.exe"
+    "bin/wkhtmltopdf32.exe",
+    "bin/wkhtmltopdf64.exe"
   ],
   "require": {
   },
